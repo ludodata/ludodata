@@ -2,11 +2,9 @@
 
 
 
-
-
-### 🧰 Languages and Tools
+### <img src="https://github.com/ludodata/img/blob/main/icon/flight.png" width="25" height="25"/> Toolbox
 <!-- https://devicon.dev/ -->
-
+<br/>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>
@@ -30,8 +28,7 @@
 
 
 
-<img src="" width="45" height="45" />
-<img src="" width="45" height="45" />
+
 
 </p>
 
