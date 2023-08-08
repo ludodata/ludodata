@@ -8,7 +8,7 @@ Analyste de données passionné, expert en visualisation de données. Mon parcou
 <br/>
 
 
-### <img src="https://github.com/ludodata/img/blob/main/icon/mesh.png" width="28" height="28" />Toolbox
+### <img src="https://github.com/ludodata/img/blob/main/icon/analytics.png" width="30" height="30" />Toolbox
 <!-- https://devicon.dev/ -->
 
 <p align="left">
@@ -30,7 +30,7 @@ Analyste de données passionné, expert en visualisation de données. Mon parcou
 </p>
 <br/>
 
-### <img src="https://github.com/ludodata/img/blob/main/icon/analytics.png" width="30" height="30" />Education
+### <img src="https://github.com/ludodata/img/blob/main/icon/mesh.png" width="28" height="28" />Education
 
 <p align="left">
 
