@@ -9,21 +9,21 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" height="45" />
-<img src="https://github.com/ludodata/img/blob/main/icon/photoshop-cc-logo-svgrepo-com.svg" width="45" height="45" />
-          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
+<img src="https://github.com/ludodata/img/blob/main/icon/scikitlearn-svgrepo-com.svg" width="45" height="45" />
 <img src="https://github.com/ludodata/img/blob/main/icon/excel-svgrepo-com.svg" width="45" height="45" /> 
 <img src="https://github.com/ludodata/img/blob/main/icon/tableau-icon-svgrepo-com.svg" width="45" height="45" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
-
-
-<img src="https://github.com/ludodata/img/blob/main/icon/scikitlearn-svgrepo-com.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45" height="45" />
 <img src="https://github.com/ludodata/img/blob/main/icon/kalilinux-svgrepo-com.svg" width="45" height="45" />
+<img src="https://github.com/ludodata/img/blob/main/icon/photoshop-cc-logo-svgrepo-com.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" height="45" />
+
+
+
+
 
 
 
