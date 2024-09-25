@@ -2,7 +2,7 @@
 
 ### <img src="https://github.com/ludodata/img/blob/main/icon/virtual-reality.png" width="30" height="30" />Infos
 
-Data Scientist passionné, spécialisé en visualisation de données et en modélisation prédictive. Mon parcours atypique de designer lumière m'a doté de compétences en gestion de projet et en travail d'équipe. Je décrypte les tendances cachées dans les données pour créer des stratégies percutantes. Toujours à la pointe des dernières avancées, je repousse les limites de l'analyse des données et du Machine Learning. Prêt à relever de nouveaux défis en data science !
+Data Scientist spécialisé en visualisation de données et en modélisation prédictive, je mets en lumière les insights cachés dans les données. Mon parcours atypique de designer lumière m'a doté d'une solide expérience en gestion de projet et en travail d'équipe, me permettant de donner vie à des stratégies percutantes. Toujours à la pointe des dernières avancées, je repousse les limites de l'analyse des données et du machine learning. Disponible immédiatement, je suis prêt à relever de nouveaux défis en data science !
 
 
 <br/>
